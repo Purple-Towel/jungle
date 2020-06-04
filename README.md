@@ -40,6 +40,8 @@ Cart
 !["Nav Cart with items"](https://github.com/Purple-Towel/jungle/blob/master/docs/cart.png)
 !["Cart Page with items"](https://github.com/Purple-Towel/jungle/blob/master/docs/cart_details.png)
 !["Cart Page without items"](https://github.com/Purple-Towel/jungle/blob/master/docs/cart_empty.png)
+!["Paying"](https://github.com/Purple-Towel/jungle/blob/master/docs/pay.png)
+!["Order Confirmed"](https://github.com/Purple-Towel/jungle/blob/master/docs/order_confirmed.png)
 
 ## Dependencies
 
